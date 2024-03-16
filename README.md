@@ -1,1 +1,1 @@
-# pyhton
+# lab.py
